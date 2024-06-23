@@ -1,7 +1,8 @@
 
 # Heat Island Mapper
 
-Aplicativo que aplica o método de K-Médias para segmentação semântica separando por tendência de cor em um mapa. Divide em três segmentações: vermelho, amarelo e azul a depender da intensidade de cor.
+Busca mapear as ilhas de calor em uma imagem urbana comum.
+Aplicativo que aplica o método de K-Médias para segmentação semântica separando por tendência de cor em um mapa. Divide em três segmentações: vermelho, amarelo e azul a depender da intensidade do fenômeno segundo sua tendência de cor do mapa.
 
 * Abre imagens em formato .png e .jpg a luz visível
 * Possível de ser exportado para mobile, mas não foi testado ainda.
