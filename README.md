@@ -15,7 +15,7 @@ Implementação do artigo de pesquisa "Uso de visão computacional por I.A. em r
 ## Autores
 
 - [@LabelleMoon](https://github.com/BelleMoon) - Hugo Cardoso Ferreira de Araújo
-- Kauã Lima de Souza
+- [@Kaua15](https://github.com/Kaua15) - Kauã Lima de Souza
 - Gustavo Jun Arakaki
 - Patricia Sofia Merlo de Lima
 - João Henrique Kuroki Cominato
